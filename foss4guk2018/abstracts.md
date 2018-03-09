@@ -120,6 +120,7 @@ The presentation provides an overview of how PostgreSQL/ PostGIS can be used to 
 
 In use of working examples the session will look at the use database functions to build relationships between datasets and semi automate processes, this combined with QGIS form architecture as a configurable interface.  The use of PostgreSQL row level and column based security will demonstrate how data distribution to QGIS users in corporate environment can be refined to meet specific access requirements.
 
+[Slides](http://www.geoascent.com/presentations/SuperchargingQGISworkflowWithPostGIS-FOSS4GUK.pdf)
 - - -
 
 ### Spatial Web Services
