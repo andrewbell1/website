@@ -114,11 +114,11 @@ In this presentation, we will present the full stack of QGIS applications from s
 
 ### Supercharging QGIS Workflow with PostGIS
 
-**Andrew Bell, Geoacent**
+**Andrew Bell, Geoascent**
 
 The presentation provides an overview of how PostgreSQL/ PostGIS can be used to semi-automate and enhance business workflow through QGIS. 
 
-In use of working examples the session will look at the use database functions to build relationships between datasets and semi automate processes, this combined with QGIS form architecture as a configurable interface.  The use of PostgreSQL row level and column based security will demonstrate how data distribution to QGIS users in corporate environment can be refined to meet specific access requirements.
+In use of working examples the session will look at the use of database functions to build relationships between datasets and to semi automate processes, this combined with QGIS form architecture as a configurable interface.  The use of PostgreSQL row level and column based security will demonstrate how data distribution to QGIS users in corporate environment can be refined to meet specific access requirements.
 
 - - -
 
